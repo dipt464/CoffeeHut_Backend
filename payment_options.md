@@ -6,3 +6,5 @@
 - PayPal
 - Mobile Wallet
 - Cash on Delivery
+- Coffehut_Wallet
+- 
